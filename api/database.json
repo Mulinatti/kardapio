@@ -1,0 +1,25 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "buxixo",
+      "category": "bar",
+      "description": "Open bar 24h, petiscos, chopp e cerveja desde 2001. Carnes, vodka e musica ao vivo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs9y83hjZ0_MQv6GfAvYYPu5l5YxYYTwG3X3U2-tsKo5gECn4n_9A0m8-iKElY4vqlFI&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "buxixo",
+      "category": "bar",
+      "description": "open bar 24h, petiscos, chopp e cerveja desde 2001, carnes, vodka e musica ao vivo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs9y83hjZ0_MQv6GfAvYYPu5l5YxYYTwG3X3U2-tsKo5gECn4n_9A0m8-iKElY4vqlFI&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "buxixo",
+      "category": "bar",
+      "description": "open bar 24h, petiscos, chopp e cerveja desde 2001, carnes, vodka e musica ao vivo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs9y83hjZ0_MQv6GfAvYYPu5l5YxYYTwG3X3U2-tsKo5gECn4n_9A0m8-iKElY4vqlFI&usqp=CAU"
+    }
+  ]
+}

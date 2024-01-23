@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  body {
+    @apply bg-zinc-950 font-[Inter] text-zinc-200 h-full;
+  }
+
+  input {
+    @apply font-normal outline-none bg-transparent w-full placeholder:text-zinc-200/20;
+  }
+
+  .input {
+    @apply border border-zinc-200/20 w-full rounded-md p-2;
+  }
+
+  html, #root {
+    @apply h-full;
+  } 
+}
